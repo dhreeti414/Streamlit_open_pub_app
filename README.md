@@ -7,7 +7,7 @@ While searching the internet, you came across https://www.getthedata.com/open-pu
 Download data from here.
 Click here to access the data dictionary.
 <br>
-<h2>Task - Create a multi page application using Streamlit with the following requirements.</h2>
+<h3>Task - Create a multi page application using Streamlit with the following requirements.</h3>
 
 <h4>Page Number 1 - (Home Page)</h4>
 It should be like a welcome page. Show some basic information and statistics about the dataset.
