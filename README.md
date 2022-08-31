@@ -19,4 +19,4 @@ Display a map. Based on the Postal Code or Local Authority, display all the pubs
 <h4>Page Number 3 - (Find the nearest Pub)</h4>
 Ask the user to enter his/her Latitude and Longitude. Display the nearest 5 Pubs on the map. Use Euclidean Distance to find the nearest pubs.
 <br>
-<h4>Hint</h4> - There are some Null Values in the Latitude and Longitude Column. Use Jupyter Notebook to either impute the null values or delete the rows and then proceed with app development.
+<h4>Hint - </h4>There are some Null Values in the Latitude and Longitude Column. Use Jupyter Notebook to either impute the null values or delete the rows and then proceed with app development.
