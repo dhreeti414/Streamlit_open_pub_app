@@ -13,7 +13,7 @@ total_localAuthority= len(df['local_authority'].unique())
 total_postalCodes= len(df['postcode'].unique())
 st.subheader(f"Total pub present in United Kingdom is {total_pubs}")
 st.subheader(f"Total local authorities of pubs is {total_localAuthority}")
-st.subheader(f"Total pub present in United Kingdom is {total_postalCodes}")
+st.subheader(f"Total postal codes of pubs present in UK is {total_postalCodes}")
 st.markdown(
     """
 <style>
